@@ -5,7 +5,7 @@
 # my dummy data
 ![Logo](https://i.ibb.co.com/SXmBvDs/probesh-mock-data.png)
 
-#Subject wise mean
+# Subject wise mean
 ![Logo](https://i.ibb.co.com/HgS5xv5/probesh-bar-chart.png)
 
 
