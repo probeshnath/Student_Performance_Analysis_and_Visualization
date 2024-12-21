@@ -2,7 +2,7 @@
 # Student_Performance_Analysis_and_Visualization
 
 
-# my dummy data
+# My dummy data
 ![Logo](https://i.ibb.co.com/SXmBvDs/probesh-mock-data.png)
 
 # Subject wise mean
