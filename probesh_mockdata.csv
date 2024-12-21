@@ -1,0 +1,501 @@
+Student_id,Student_Name,Subject,Score,Attendance_Percentage,Assignment_Completion
+1,Nolana Serris,Support,70,99,false
+2,Matthias Poundford,Business Development,84,86,false
+3,Vonnie Brookwell,Marketing,73,96,false
+4,Christabel Lamers,Sales,77,55,false
+5,Devlen Mizzi,Engineering,67,84,false
+6,Timmy Grevel,Product Management,88,80,true
+7,Lek Twyford,Business Development,77,53,true
+8,Barry Allmond,Business Development,97,70,false
+9,Ingram Bassingden,Research and Development,63,71,false
+10,Alden Habbema,Training,86,75,true
+11,Wait Dearness,Services,83,90,false
+12,Lowrance Ledwich,Human Resources,95,81,true
+13,Wilburt Tolley,Sales,62,44,true
+14,Aldo Cowpland,Product Management,60,50,false
+15,Grethel Chable,Business Development,61,69,false
+16,Letti MacNamee,Engineering,80,86,false
+17,Pierre Kennermann,Accounting,61,61,false
+18,Gleda Aikman,Engineering,91,45,false
+19,Shannen Walford,Research and Development,91,58,true
+20,Shay Fancy,Research and Development,98,62,false
+21,Newton Goldstraw,Product Management,65,94,false
+22,Mireielle Clawley,Marketing,62,61,true
+23,Elie Demangeon,Training,63,99,true
+24,Corie Budgett,Accounting,67,67,false
+25,Grazia Gotfrey,Services,93,43,false
+26,Lu Purches,Support,74,48,false
+27,Gretchen Stegers,Product Management,65,68,false
+28,Ottilie Manlow,Marketing,96,63,false
+29,Gilbertine Heard,Sales,98,66,false
+30,Katlin Iacomelli,Legal,84,78,false
+31,Hy Ferrier,Services,74,51,false
+32,Constantin Murby,Engineering,89,67,false
+33,Sterne Kerford,Accounting,87,55,false
+34,Batholomew Wellum,Research and Development,78,56,false
+35,Harrietta Yaxley,Human Resources,97,88,true
+36,Rodolphe Pauleau,Business Development,78,40,true
+37,Arabelle Lapham,Services,87,81,false
+38,Lotti Tollfree,Engineering,90,40,false
+39,Lucien Voak,Business Development,65,67,false
+40,Camille Goodinson,Product Management,76,56,true
+41,Randolf Ismead,Human Resources,78,85,true
+42,Verile Sebring,Engineering,99,62,false
+43,Cathlene Woolrich,Product Management,61,41,false
+44,Nichols Katte,Support,63,43,true
+45,Sutherlan Bruyns,Product Management,76,40,true
+46,Elianora Freckingham,Marketing,60,95,false
+47,Rosina Severn,Engineering,61,71,true
+48,Shandeigh Bootes,Product Management,100,87,false
+49,Shoshana Yeates,Services,78,95,true
+50,Lillis Beevens,Business Development,73,49,true
+51,Rutter Pain,Research and Development,82,62,true
+52,Thain Mullen,Engineering,77,68,true
+53,Goldie Costanza,Sales,81,59,true
+54,Any Ackred,Research and Development,83,99,true
+55,Britney Shovlar,Product Management,84,42,true
+56,Harriet Packer,Marketing,92,54,true
+57,Marie-ann Battson,Research and Development,62,50,false
+58,Micah Lydiard,Product Management,87,93,false
+59,Quintus Penwright,Sales,75,81,true
+60,Hunt Arrowsmith,Accounting,78,67,false
+61,Ginni Seath,Product Management,73,79,true
+62,Ilyse Blackway,Support,74,80,false
+63,Ham Redihalgh,Product Management,86,50,false
+64,Heriberto Fieldsend,Support,92,45,true
+65,Tiler Dictus,Product Management,95,56,true
+66,Gilbertine Joss,Legal,61,59,true
+67,Elsy Cullerne,Support,66,74,false
+68,Bucky Dady,Human Resources,95,52,false
+69,Saundra Crippill,Support,90,48,true
+70,Rosana Duggan,Legal,74,98,false
+71,Alair Leil,Sales,99,81,false
+72,Berni McGhee,Sales,91,43,false
+73,Tybalt Inglish,Services,99,46,true
+74,Marty Hoggetts,Services,90,91,false
+75,Kerrie Janik,Research and Development,96,73,false
+76,Cathryn Minghella,Human Resources,90,60,false
+77,Cordey Counsell,Human Resources,84,43,true
+78,Pierson Maggs,Services,90,97,false
+79,Lissie Phizacklea,Human Resources,97,45,false
+80,Galen Clail,Research and Development,90,97,false
+81,Fonz Crookston,Business Development,81,100,false
+82,Cassondra Aldrich,Training,63,85,false
+83,Verene Guillem,Research and Development,89,76,false
+84,Heall Rabbitt,Support,76,40,false
+85,Say Castagnaro,Training,69,66,true
+86,Gretta Sprade,Marketing,71,73,false
+87,Corrinne ducarme,Product Management,89,84,true
+88,Madeleine Tesh,Legal,91,92,false
+89,Nat Toxell,Legal,62,59,true
+90,Ethelbert Shead,Training,74,88,true
+91,Brandy Fellibrand,Research and Development,89,51,true
+92,Georas Macartney,Human Resources,77,64,true
+93,Niki Lyons,Sales,88,75,false
+94,Milton Fruser,Business Development,60,81,true
+95,Dorolisa Back,Services,67,78,true
+96,Paten Rosina,Marketing,98,82,true
+97,Beth Jacks,Engineering,72,86,false
+98,Tabina Dysert,Engineering,83,55,true
+99,Lucien Lawland,Marketing,72,87,true
+100,Ase Dorber,Support,86,76,true
+101,Udale Demonge,Training,73,90,true
+102,Rosalinde Rome,Services,70,73,true
+103,Pauly Drakes,Research and Development,78,54,false
+104,Ariana Elsley,Training,69,56,false
+105,Myrtia Duiged,Support,71,46,true
+106,Marilee Goosnell,Engineering,84,41,false
+107,Cammie Picford,Product Management,85,83,false
+108,Granville Simionescu,Business Development,78,79,false
+109,Shandy Gaythwaite,Product Management,63,75,true
+110,Nobe Jagg,Services,72,97,false
+111,Jolee Philippet,Human Resources,73,66,true
+112,Lemmy Heinzel,Research and Development,67,94,true
+113,Elvis Drust,Accounting,87,70,false
+114,Theodor Whorall,Engineering,91,80,false
+115,David Ilymanov,Support,93,77,true
+116,Lavina Wetherby,Accounting,75,50,true
+117,Erminie Berthouloume,Accounting,69,80,true
+118,Lulita Millard,Research and Development,72,79,true
+119,Adolphe Stalman,Services,80,46,true
+120,Tera Pietraszek,Training,71,66,false
+121,Kori Skully,Human Resources,83,66,true
+122,Olva Gerrad,Research and Development,70,66,false
+123,Louisa Crunkhurn,Services,67,81,false
+124,Di Godsil,Services,70,91,false
+125,Dunstan Cossar,Services,74,44,true
+126,Hugh Jellico,Business Development,84,74,true
+127,Kathryn Goodspeed,Human Resources,61,88,false
+128,Hirsch Sjollema,Legal,79,76,false
+129,Ethelind Longden,Legal,84,65,false
+130,Maryl Collcutt,Training,97,67,false
+131,Berny Crinion,Product Management,81,42,true
+132,Mozes Van der Spohr,Accounting,97,71,false
+133,Abba Luppitt,Legal,85,70,false
+134,Sallee Locock,Human Resources,69,47,true
+135,Stefa Dignon,Sales,98,56,false
+136,Dena Schuricke,Services,75,89,false
+137,Hattie Franssen,Accounting,91,78,false
+138,Leodora Antosch,Legal,95,85,false
+139,Demetria Yate,Accounting,72,89,true
+140,Mal Dametti,Marketing,98,79,false
+141,Danella Damp,Legal,75,49,true
+142,Cornall McLugaish,Marketing,73,59,false
+143,Lib Spacie,Marketing,76,63,true
+144,Melina Chaffe,Research and Development,79,80,true
+145,Ganny Landon,Services,61,68,false
+146,Sean Renault,Marketing,75,52,true
+147,Donny Hammer,Business Development,96,49,true
+148,Goober Lundbeck,Business Development,78,96,true
+149,Fredia Howley,Accounting,98,73,true
+150,Priscella Bowry,Support,97,58,true
+151,Sonny Eddow,Accounting,75,67,false
+152,Delano Shaddock,Marketing,66,54,true
+153,Nichole Flaune,Training,67,79,false
+154,Othilie Houseman,Research and Development,87,55,false
+155,Jamal Volant,Marketing,65,87,true
+156,Stearne Askin,Engineering,68,75,false
+157,Marysa Spatari,Training,96,82,true
+158,Amabelle Wogden,Accounting,94,79,false
+159,Goober Crome,Marketing,99,92,false
+160,Earlie Riggs,Research and Development,71,68,true
+161,Anjela Ferry,Services,79,69,false
+162,Aaren Botwright,Engineering,71,53,false
+163,Babita Fassan,Legal,92,99,true
+164,Didi Owtram,Product Management,68,66,true
+165,Clay Youtead,Training,64,86,true
+166,Jerrilee Burnes,Marketing,67,50,false
+167,Christye McGrale,Marketing,76,50,true
+168,Dalia Feldharker,Engineering,96,97,false
+169,Hale McSharry,Engineering,71,94,true
+170,Germaine Landsman,Training,81,67,true
+171,Wendye Mazin,Services,93,57,true
+172,Yvor Hartlebury,Sales,77,98,true
+173,Marni Spriggen,Engineering,99,66,false
+174,Jeanna Dodle,Sales,69,92,false
+175,Dewie O' Dornan,Sales,67,99,false
+176,Byrom Sadgrove,Services,88,88,true
+177,Susy Lowrey,Sales,69,86,false
+178,Abbott Ketteringham,Engineering,96,60,false
+179,Mendie Zaniolo,Engineering,84,67,true
+180,Swen Eckhard,Accounting,92,68,false
+181,Karl Codd,Research and Development,61,61,true
+182,Hillery Putson,Marketing,61,59,true
+183,Theodor Mumberson,Services,70,99,true
+184,Loria Simper,Accounting,93,69,false
+185,Vikky Klishin,Services,79,54,true
+186,Catie Inglesant,Business Development,61,52,false
+187,Bernardo Hawkey,Business Development,80,71,true
+188,Hedvige Raddenbury,Training,87,94,false
+189,Kessiah Canadas,Support,66,45,false
+190,Geri Beldham,Support,69,99,true
+191,Christen Anyene,Accounting,87,41,true
+192,Flora Burgill,Training,83,40,true
+193,Waverley Danels,Product Management,93,77,false
+194,Charmaine Light,Research and Development,86,94,false
+195,Novelia Bearham,Business Development,71,72,true
+196,Ebony McLaren,Human Resources,80,68,true
+197,Sargent Skirling,Services,77,90,true
+198,Andrea Ainslee,Human Resources,85,79,false
+199,Shelbi Rawcliffe,Engineering,89,76,false
+200,Tamiko Houndsom,Human Resources,73,67,true
+201,Lindy Duker,Product Management,96,67,false
+202,Kipper Twitchett,Research and Development,71,92,false
+203,Cati Crosi,Legal,66,42,true
+204,Glynnis Bernardon,Training,65,66,true
+205,Clyde Ivanyukov,Marketing,86,65,false
+206,Davy Dumbarton,Legal,99,62,false
+207,Alleyn Vaughten,Services,96,53,false
+208,Malcolm Berkery,Support,68,59,false
+209,Winfred Kassidy,Sales,77,46,false
+210,Fayina Axcell,Training,97,63,true
+211,Jacqui Laingmaid,Business Development,78,99,false
+212,Gillan Hizir,Human Resources,77,58,false
+213,Franchot O'Dempsey,Accounting,84,83,false
+214,Emmalee Cardenas,Support,68,45,true
+215,Lotty Wibberley,Accounting,77,52,true
+216,Elizabet McArdell,Training,71,53,true
+217,Nicolis Legion,Business Development,66,67,true
+218,Jesus Oppery,Human Resources,65,79,false
+219,Ezri Brassington,Product Management,97,95,false
+220,Melba Willbourne,Support,60,72,true
+221,Goran Nund,Business Development,68,78,false
+222,Murdoch Castelin,Research and Development,64,83,true
+223,Deonne Bullock,Legal,70,44,false
+224,Leontyne Santry,Training,72,54,true
+225,Ludovico Bollon,Product Management,87,95,false
+226,Arvie MacSporran,Engineering,99,70,false
+227,Olwen Beushaw,Sales,89,51,false
+228,Thia Collyns,Training,96,57,true
+229,Ahmad Garthland,Engineering,60,51,true
+230,Burke Merriment,Accounting,73,75,false
+231,Leticia Jaan,Human Resources,80,40,false
+232,Misha Kinloch,Product Management,84,100,true
+233,Vincenty Carde,Services,99,59,false
+234,Cherry Pandey,Research and Development,91,63,false
+235,Ashlee Petrol,Marketing,62,54,false
+236,Pierrette Stoffler,Accounting,65,98,false
+237,Aundrea Mates,Services,91,47,false
+238,Bari Gennings,Legal,72,74,true
+239,Rudolf Karpeev,Marketing,94,57,false
+240,Athene Cars,Support,66,61,true
+241,Arliene Dutt,Engineering,66,72,true
+242,Giffard Bridgement,Engineering,100,85,false
+243,Morey Dinesen,Product Management,95,67,true
+244,Ines Manske,Training,92,86,false
+245,Tito Poleye,Support,86,77,false
+246,Ertha Baseke,Research and Development,76,73,true
+247,Gallagher Fomichyov,Product Management,61,56,false
+248,Nicola Souten,Engineering,71,94,true
+249,Coreen Learoyde,Human Resources,63,80,false
+250,Jonathon Esley,Sales,83,100,true
+251,Sarina Mitrikhin,Sales,77,58,false
+252,Boone Legen,Business Development,77,68,false
+253,Tiffany Necolds,Services,70,58,true
+254,Silvana Slocom,Marketing,98,50,false
+255,Peyter Cayette,Engineering,94,87,false
+256,Hillel Walcar,Engineering,80,52,false
+257,Germain Roomes,Services,72,76,false
+258,Kiri Python,Sales,78,85,false
+259,Sallyanne Joskowicz,Marketing,72,58,true
+260,Ramon Appleton,Training,61,89,true
+261,Arel Budget,Product Management,83,58,false
+262,Christina Facey,Legal,80,53,false
+263,Bibi Lasham,Human Resources,69,73,false
+264,Brant Dunsford,Support,74,56,true
+265,Kiersten Vautre,Human Resources,90,93,false
+266,Alfred Poznanski,Accounting,61,62,true
+267,Dorena Dalrymple,Human Resources,65,61,false
+268,Jeramey Blucher,Engineering,93,76,false
+269,Skipp Petow,Support,65,83,true
+270,Craggy Pipworth,Services,92,100,true
+271,Rouvin Grunnell,Sales,74,76,false
+272,Bat Fanning,Human Resources,63,78,true
+273,Ardeen Catterill,Services,81,87,false
+274,Kellen Vokes,Legal,95,43,false
+275,Becka Paulusch,Legal,61,79,false
+276,Vivien Foxen,Sales,86,71,true
+277,Terrye Da Costa,Training,78,94,false
+278,Dorree Wabersinke,Sales,88,90,false
+279,Paloma Gallop,Product Management,76,99,true
+280,Christophorus Leyband,Support,91,72,true
+281,Dame Whight,Support,66,46,false
+282,Ayn Nehlsen,Training,90,55,true
+283,Barbette Goschalk,Services,73,49,true
+284,Ryan Lawless,Legal,62,49,true
+285,Alika Quarrell,Legal,82,84,true
+286,Stace Tixier,Training,85,82,true
+287,Olia Stapforth,Legal,90,81,false
+288,Antin Twigge,Research and Development,69,50,true
+289,Roxine Yeatman,Accounting,72,89,true
+290,Sheppard Gelland,Legal,81,57,false
+291,Roseanna Croughan,Sales,82,79,true
+292,Pennie Campe,Support,93,50,false
+293,Dianne Fuidge,Legal,85,44,true
+294,Felike Nevin,Training,76,66,false
+295,Emile Morgon,Legal,91,74,false
+296,Franky Brinkman,Support,81,56,true
+297,Melesa Brookshaw,Accounting,99,55,true
+298,Patton Brindle,Product Management,74,90,true
+299,Alice Ridesdale,Marketing,74,44,false
+300,Nate Spyvye,Support,89,60,true
+301,Silvana Vasentsov,Research and Development,74,44,true
+302,Sanders Dewan,Support,73,57,true
+303,Alyce Reiners,Support,67,88,true
+304,Sara Spiers,Product Management,86,69,false
+305,Hillier Ozanne,Support,95,90,true
+306,Lara Braz,Support,61,43,false
+307,Debbi Watkiss,Business Development,88,86,true
+308,Hamid Grigorini,Business Development,79,73,true
+309,Meris Crocetto,Sales,92,66,true
+310,Marcille Tregona,Human Resources,74,83,true
+311,Marget Ludl,Research and Development,79,55,false
+312,Colby Woolvin,Support,91,86,true
+313,Evangelina Ransfield,Research and Development,100,69,false
+314,Nolana Myton,Sales,90,90,true
+315,Vince Chark,Human Resources,82,99,false
+316,Everard Balser,Training,86,67,false
+317,Kirby Bassingham,Services,75,90,true
+318,Eldredge Knowler,Sales,77,100,false
+319,Bernadine Corona,Marketing,81,59,false
+320,Zach Abyss,Support,92,49,false
+321,Loise Attewill,Services,61,83,true
+322,Doralyn Finlow,Engineering,87,71,false
+323,Esra Mallon,Product Management,81,67,false
+324,Konstance Daffern,Training,71,82,false
+325,Emera Titchener,Legal,63,59,true
+326,Filmer Epine,Human Resources,93,88,false
+327,Paulie Hickford,Services,62,61,true
+328,Ricca Malmar,Marketing,99,74,true
+329,Nesta Pleager,Research and Development,71,79,false
+330,Celka Pinfold,Sales,88,42,false
+331,Janeva Forsbey,Engineering,91,69,true
+332,Kamilah Van der Velde,Sales,78,59,true
+333,Ivory Canfer,Sales,64,70,false
+334,Rheba Duns,Human Resources,78,88,false
+335,Noah Nekrews,Training,94,100,false
+336,Melessa Gosnall,Engineering,86,46,true
+337,Roley Tokell,Human Resources,75,64,false
+338,Robin Dutnell,Training,94,92,false
+339,Othilia Lusk,Legal,81,98,false
+340,Jeanie Maskew,Legal,89,58,true
+341,Kristoffer Harbach,Training,60,48,false
+342,Christoper Toxell,Engineering,61,75,true
+343,Kiel Birt,Legal,90,74,false
+344,Redd Mayhew,Legal,60,46,false
+345,Moises Gooke,Business Development,97,84,true
+346,Katuscha Bowers,Training,87,41,false
+347,Ciro Trebilcock,Human Resources,74,96,true
+348,Nesta Domoni,Services,76,71,false
+349,Sasha Rodgerson,Marketing,97,78,false
+350,Henri Klarzynski,Research and Development,91,82,false
+351,Cherise Mouncey,Support,98,86,false
+352,Tracie Custance,Training,84,74,true
+353,Tyson Brumpton,Support,99,68,true
+354,Irwinn Feye,Research and Development,93,77,true
+355,Nick Iacoboni,Research and Development,83,51,false
+356,Margarita Wackley,Business Development,65,81,true
+357,Sandi Schuh,Engineering,100,81,false
+358,Salvador Whelpdale,Legal,72,95,true
+359,Benny Darcey,Training,74,99,false
+360,Leontyne Veldstra,Services,72,71,false
+361,Joletta Bray,Accounting,60,40,true
+362,Nancy Keedy,Training,60,51,true
+363,Margarete Flowith,Legal,70,46,true
+364,Nina Hallyburton,Services,91,66,true
+365,Lauri Brehat,Engineering,89,75,false
+366,Lowell Jammet,Engineering,73,40,true
+367,Corabel La Rosa,Legal,87,85,true
+368,Bond Saltman,Services,67,97,false
+369,Ardeen Aleswell,Services,90,44,false
+370,Uta Copeman,Marketing,60,100,false
+371,Vicky Kivell,Services,76,95,true
+372,Nevins McCaughen,Services,78,57,true
+373,Luis Cuttin,Marketing,80,89,false
+374,Trixie Camoys,Product Management,86,65,true
+375,Mariana McQuin,Business Development,78,97,false
+376,Mic Posse,Support,72,96,true
+377,Burty Burnell,Services,71,61,true
+378,Berte Caukill,Research and Development,89,95,true
+379,Lance Laslett,Accounting,92,41,false
+380,Cherin Irving,Product Management,80,43,true
+381,Xerxes Fairweather,Accounting,75,49,false
+382,Rudolph Sackur,Business Development,87,88,false
+383,Lacee Podmore,Human Resources,72,97,true
+384,Damara Marjoribanks,Research and Development,96,83,true
+385,Worthy Kellick,Product Management,94,96,false
+386,Eada Layson,Research and Development,73,77,false
+387,Rosetta Hurdidge,Research and Development,82,58,false
+388,Butch Gisborne,Legal,61,75,true
+389,Harris Bainbrigge,Training,85,83,true
+390,Kalina Beardsdale,Support,65,59,true
+391,Gretna Mokes,Accounting,74,83,true
+392,Barr Buffy,Research and Development,72,95,false
+393,Hedvige Greve,Business Development,79,85,true
+394,Wynny Drowsfield,Business Development,95,76,false
+395,Husain Woodall,Services,60,57,false
+396,Dannie Henzer,Accounting,97,70,false
+397,Chevy Harrismith,Services,95,50,true
+398,Holly Phillips,Marketing,76,62,true
+399,Halie Rodrig,Accounting,93,81,true
+400,Vitoria Bingle,Marketing,73,95,false
+401,Garold Imos,Marketing,84,80,true
+402,Boonie Hadye,Marketing,94,57,true
+403,Jade Bodle,Accounting,75,78,false
+404,Monica Slocomb,Business Development,66,79,false
+405,Bron Polotti,Accounting,86,83,true
+406,Sanders Pirie,Legal,88,52,false
+407,Lucila Ethridge,Product Management,95,78,true
+408,Krystyna Irvin,Sales,82,96,false
+409,Fidela Duran,Legal,74,86,false
+410,Myrtie Vern,Human Resources,69,88,false
+411,Lauraine Sabin,Marketing,94,100,false
+412,Trueman Jablonski,Engineering,88,100,true
+413,Massimiliano Mousley,Engineering,69,97,false
+414,Chester Solman,Engineering,94,89,true
+415,Audrey Orme,Legal,96,97,false
+416,Selle Rumbold,Support,98,64,false
+417,Adelbert Debrett,Sales,75,52,false
+418,Loni Sisneros,Product Management,71,96,true
+419,Charlena Dimelow,Legal,79,94,true
+420,Shanna Salsberg,Accounting,73,51,false
+421,Amii Kydde,Legal,68,69,false
+422,Zara Jukubczak,Legal,93,55,true
+423,Lyman Carr,Research and Development,89,75,false
+424,Nadine Pirt,Training,60,53,false
+425,Nissie Farahar,Training,69,63,true
+426,Jerri Ludewig,Human Resources,89,42,true
+427,Randi Redparth,Services,60,83,true
+428,Alexandre O'Luby,Human Resources,95,61,true
+429,Farly Tomczykowski,Services,71,85,true
+430,Jim Nuss,Accounting,74,61,false
+431,Cassey Mackro,Product Management,77,50,false
+432,Gaston Stronough,Services,72,42,false
+433,Fabian Rowcastle,Marketing,94,65,false
+434,Dacy Walkey,Sales,89,56,true
+435,Asher Pavlik,Sales,77,81,true
+436,Mella Kidder,Human Resources,62,70,true
+437,Granville Crimmins,Accounting,61,100,false
+438,Baxter Ren,Accounting,83,86,false
+439,Thorsten Ferrao,Business Development,72,95,true
+440,Remington Matyugin,Sales,68,63,false
+441,Eldin Monshall,Accounting,95,95,true
+442,Janette Voisey,Business Development,67,69,true
+443,Ansell Fallanche,Human Resources,74,80,false
+444,Maressa Hendrick,Accounting,79,68,true
+445,Fan Sickling,Training,96,91,false
+446,Lorrie Gerren,Training,98,75,true
+447,Earlie Judkin,Business Development,63,64,true
+448,Aron Scotchmore,Engineering,88,84,true
+449,Manolo Krochmann,Legal,80,58,true
+450,Robby Christensen,Sales,66,58,true
+451,Zoe Dunkerly,Research and Development,86,86,true
+452,Rozanne Valdes,Legal,94,53,true
+453,Giacinta Basey,Training,71,69,true
+454,Justus Duerden,Legal,88,100,false
+455,Gradey Cherry Holme,Support,86,96,true
+456,Inna Miles,Marketing,91,70,true
+457,Chilton Meek,Accounting,95,41,true
+458,Carleton Basden,Legal,61,44,false
+459,Sibeal Howis,Human Resources,81,82,true
+460,Gorden Le Noury,Services,68,63,false
+461,Marijn Abeau,Sales,63,83,false
+462,Barney Crasswell,Support,98,43,false
+463,Tara Creed,Legal,91,53,false
+464,Clari Mawd,Training,85,40,false
+465,Costanza Lutwyche,Support,87,80,false
+466,Odey Matyashev,Support,69,87,true
+467,Dory Semon,Research and Development,85,69,true
+468,Betsey Coulthard,Legal,79,61,true
+469,Reeba June,Sales,93,94,false
+470,Nichole Bangley,Training,62,80,false
+471,Honey Gildersleaves,Sales,76,85,false
+472,La verne Lashmore,Sales,75,92,false
+473,Scottie Lebbon,Product Management,65,92,false
+474,Claudie Renzo,Research and Development,74,81,false
+475,Annissa Wilding,Training,95,58,false
+476,Ara Bamford,Accounting,62,92,false
+477,Kiersten Jacobssen,Support,85,93,false
+478,Ardeen Kirgan,Services,60,95,false
+479,Mac Whiff,Support,81,90,true
+480,Kipper Verzey,Human Resources,99,91,true
+481,Kathie Nussen,Business Development,88,50,false
+482,Bettina Kaplan,Sales,92,76,false
+483,Heda Wingatt,Engineering,78,80,true
+484,Dyna Ticehurst,Business Development,80,53,true
+485,Ives Hawkshaw,Services,66,87,false
+486,Elinor Dent,Business Development,86,74,false
+487,Guthrey Atrill,Support,64,91,false
+488,Mufi Doogood,Marketing,91,56,true
+489,Kippar Turmell,Sales,90,55,true
+490,Amos Munton,Training,67,69,false
+491,Dredi Metzing,Human Resources,73,97,false
+492,Rivalee Deighan,Legal,77,41,true
+493,Fredia Youthed,Engineering,80,40,false
+494,Fredra Surplice,Marketing,61,65,false
+495,Karalynn Hannum,Business Development,99,61,true
+496,Jillane Willshaw,Accounting,85,76,false
+497,Clayborne Kosiada,Human Resources,92,90,false
+498,Valentin Pescud,Support,74,89,true
+499,Missy Reuben,Sales,82,45,true
+500,Marjie Scinelli,Human Resources,62,64,false
