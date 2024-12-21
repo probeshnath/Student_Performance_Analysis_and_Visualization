@@ -1,3 +1,13 @@
+
 # Student_Performance_Analysis_and_Visualization
 
-probesh_mockdata.csv- this file my dummy data for run the code and analysis the data 
+
+# my dummy data
+![Logo](https://i.ibb.co.com/SXmBvDs/probesh-mock-data.png)
+
+#Subject wise mean
+![Logo](https://i.ibb.co.com/HgS5xv5/probesh-bar-chart.png)
+
+
+# Attendence percentage category
+![Logo](https://i.ibb.co.com/9yfptZY/probesh-pi-chart.png)
